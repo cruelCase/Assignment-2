@@ -7,9 +7,11 @@ public static void main(String[] args) {
 Scanner scan = new Scanner(System.in);
 
 System.out.println("Enter your first Interger: ");
+
 int a = scan.nextInt();
 
 System.out.println("Enter your Second Integer: "); 
+
 int b = scan.nextInt();
 
 System.out.println("The sum of the two number is " + (a + b));
